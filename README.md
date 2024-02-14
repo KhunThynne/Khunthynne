@@ -27,9 +27,9 @@
 ***Yes.. look! this my git i have skill about write programs had ble many language and framework such*** 
 ### Language programing
 
-| Typescrip  | Javascrip  |
-| ------------- | ------------- |
-| <img src="https://github.com/KhunThynne/Khunthynne/assets/88494232/5ec70728-5a54-441b-9bee-ee5df317065d" width="100" height="100" >  | <img src="https://github.com/KhunThynne/Khunthynne/assets/88494232/3944128d-d380-4a74-8ba9-61a28c99c3d6" width="100">   |
+| Javascrip | Typescrip | HTML | CSS |
+| ------------- | ------------- | ------------- |  ------------- |
+| <img src="https://github.com/KhunThynne/Khunthynne/assets/88494232/40a36925-6cf1-422b-8f40-3d8c746a86b8" width="100" >  | <img src="https://github.com/KhunThynne/Khunthynne/assets/88494232/094bf120-bc0d-4a6b-93a1-5a0f8744633d" width="100">   | <img src="https://github.com/KhunThynne/Khunthynne/assets/88494232/c6723140-4f66-42d1-9ab9-7e3d144eb24b" width="100" > | <img src="https://github.com/KhunThynne/Khunthynne/assets/88494232/d266b913-d57c-4a0d-abd9-fc2de6841333" width="100" height="100"> |
 
 
 
