@@ -32,6 +32,9 @@
 | <img src="https://github.com/KhunThynne/Khunthynne/assets/88494232/40a36925-6cf1-422b-8f40-3d8c746a86b8" width="100" >  | <img src="https://github.com/KhunThynne/Khunthynne/assets/88494232/094bf120-bc0d-4a6b-93a1-5a0f8744633d" width="100">   | <img src="https://github.com/KhunThynne/Khunthynne/assets/88494232/c6723140-4f66-42d1-9ab9-7e3d144eb24b" width="100" > | <img src="https://github.com/KhunThynne/Khunthynne/assets/88494232/d266b913-d57c-4a0d-abd9-fc2de6841333" width="100" height="100"> |
 
 
+| <img src="https://github.com/KhunThynne/Khunthynne/assets/88494232/40a36925-6cf1-422b-8f40-3d8c746a86b8" width="100" >  | <img src="https://github.com/KhunThynne/Khunthynne/assets/88494232/094bf120-bc0d-4a6b-93a1-5a0f8744633d" width="100">   | <img src="https://github.com/KhunThynne/Khunthynne/assets/88494232/c6723140-4f66-42d1-9ab9-7e3d144eb24b" width="100" > | <img src="https://github.com/KhunThynne/Khunthynne/assets/88494232/d266b913-d57c-4a0d-abd9-fc2de6841333" width="100" height="100"> |
+| ------------- | ------------- | ------------- |  ------------- |
+| Javascrip | Typescrip | HTML | CSS |
 
 
 
