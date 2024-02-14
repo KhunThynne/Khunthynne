@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khunthynne&show_icons=true&theme=white)
 
-![Asset1](https://github.com/KhunThynne/Khunthynne/assets/88494232/9c764a0b-dae3-4166-906a-bc662aef7ce2)<?xml version="1.0" encoding="UTF-8"?>
+![Asset1](https://github.com/KhunThynne/Khunthynne/assets/88494232/9c764a0b-dae3-4166-906a-bc662aef7ce2)
 
 
 > [!NOTE]
