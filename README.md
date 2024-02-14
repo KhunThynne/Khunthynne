@@ -1,10 +1,10 @@
-### Hi there 👋
+# Hello every body **สวัสดีทุกคน 👋** 
 
 
-**Thynne** 
+> [!NOTE]
+> **My nickname Thynne_ thank you for look my side** 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khunthynne&show_icons=true&theme=white)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khunthynne&show_icons=true&theme=white)  
 
 
 
