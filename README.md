@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khunthynne&show_icons=true&theme=white)  
 
 
-
+<!--
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
@@ -22,7 +22,7 @@
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
-
+ -->
 
 ***Yes.. look! this my git i have skill about write programs had ble many language and framework such*** 
 ### Language programing
