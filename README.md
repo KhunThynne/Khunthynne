@@ -1,7 +1,7 @@
 
 
 
-## My favorite tools and technologies ⚙️
+## My favorite tools and technologies เครื่องมือที่ใช้ ⚙️
 
 > Tools and technologies that I have worked with and am interested in
 
