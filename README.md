@@ -37,7 +37,7 @@
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="css" />
-      <br>Vu
+      <br>Vue
     
   </tr>
   <tr>
