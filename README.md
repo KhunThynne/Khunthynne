@@ -81,8 +81,8 @@
   </tr>
    <tr>
        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="jquery" />
+      <br>MySQL
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="css" />
