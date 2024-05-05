@@ -27,10 +27,6 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="css" />
-      <br>Next JS
-    </td>
                 <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="css" />
       <br>React
@@ -49,18 +45,6 @@
       <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
       <br>Fastapi
     </td>
-       <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="ExpressJS">
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="ExpressJS">
-      <br>Nginx
-    </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
@@ -77,12 +61,19 @@
         <img src="https://skillicons.dev/icons?i=mongo" width="48" height="48" alt="css" />
       <br>MongoDB
     </td>
-    
-  </tr>
-   <tr>
+           <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="css" />
+      <br>SQLite
+    </td>
        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="jquery" />
       <br>MySQL
+    </td>
+  </tr>
+   <tr>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="css" />
+      <br>Next JS
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="css" />
@@ -113,10 +104,7 @@
       <br>Raspberrypi
     </td>
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="css" />
-      <br>SQLite
-    </td>
+       
      
   </tr>
   <tr>
@@ -136,10 +124,7 @@
         <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="css" />
       <br>Vite
     </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="css" />
-      <br>Vercel
-    </td>   <td align="center" width="96">
+   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="css" />
       <br>Windows
     </td>
@@ -154,6 +139,36 @@
          <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="css" />
       <br>Tensorflow
+    </td>
+   </tr>
+<tr>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="css" />
+      <br>AWS EC2
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="css" />
+      <br>HEROKU
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="css" />
+      <br>Firebase
+    </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="css" />
+      <br>Vercel
+    </td>  
+           <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="ExpressJS">
+      <br>Docker
+    </td>
+        <td align="center" width="96">
+     <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="ExpressJS">
+      <br>Nginx
+    </td>
+       <td align="center" width="96">
+     <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
+      <br>Github
     </td>
    </tr>
  <tr>
