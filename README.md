@@ -176,7 +176,7 @@
       <br>Github
     </td>
     <td align="center" width="96">
-    <img src="  https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="github" />
+    <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="github" />
       <br>Prisma
     </td>
    </tr>
