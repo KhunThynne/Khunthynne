@@ -34,8 +34,6 @@
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="css" />
       <br>Vue
-        <td align="center" width="96">
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -69,8 +67,6 @@
        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="jquery" />
       <br>MySQL
-    </td>
-      <td align="center" width="96">  
     </td>
   </tr>
    <tr>
@@ -107,8 +103,6 @@
       <br>Raspberrypi
     </td>
     </td>
-       <td align="center" width="96">  
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -142,8 +136,6 @@
          <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="css" />
       <br>Tensorflow
-    </td>
-      <td align="center" width="96">
     </td>
    </tr>
 <tr>
