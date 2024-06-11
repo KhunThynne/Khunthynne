@@ -32,6 +32,10 @@
       <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
       <br>Vue
     </td>
+        <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
+      <br>Vue
+    </td>
   </tr>
   <tr>
     <td align="center" width="96" style="border: none;">
