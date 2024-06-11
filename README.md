@@ -1,4 +1,4 @@
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;" align="center">
   <tr>
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="c#" />
