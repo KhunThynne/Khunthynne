@@ -167,6 +167,12 @@
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
       <br>Prisma
+    </td> 
+  </tr>
+  <tr>   
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="prisma" />
+      <br>Prisma
     </td>
   </tr>
 </table>
