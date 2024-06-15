@@ -172,7 +172,11 @@
   <tr>   
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="prisma" />
-      <br>Prisma
+      <br>GrapHql
+    </td>    
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=apollo" width="48" height="48" alt="prisma" />
+      <br>Apollo
     </td>
   </tr>
 </table>
