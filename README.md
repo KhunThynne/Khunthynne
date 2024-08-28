@@ -178,5 +178,15 @@
       <img src="https://skillicons.dev/icons?i=apollo" width="48" height="48" alt="prisma" />
       <br>Apollo
     </td>
+     <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="prisma" />
+      <br>Arduino
+    </td>    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="prisma" />
+      <br>Raspberrypi
+    </td> <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=bitbucket" width="48" height="48" alt="prisma" />
+      <br>Bitbucket
+    </td>
   </tr>
 </table>
