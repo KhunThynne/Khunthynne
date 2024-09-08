@@ -184,8 +184,13 @@
     </td>    <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="prisma" />
       <br>Raspberrypi
-    </td> <td align="center" width="96" style="border: none;">
+    </td> 
+    <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=bitbucket" width="48" height="48" alt="prisma" />
+      <br>Bitbucket
+    </td>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=remix" width="48" height="48" alt="prisma" />
       <br>Bitbucket
     </td>
   </tr>
