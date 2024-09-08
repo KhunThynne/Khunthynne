@@ -191,7 +191,7 @@
     </td>
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=remix" width="48" height="48" alt="prisma" />
-      <br>Bitbucket
+      <br>Remix
     </td>
   </tr>
 </table>
