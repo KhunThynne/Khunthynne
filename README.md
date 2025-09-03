@@ -194,16 +194,30 @@
       <br>Remix
     </td>
     <td align="center" width="96" style="border: none;">
-      <img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=256,quality=90,fit=scale-down" width="48" height="48" alt="prisma" />
+      <img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=256,quality=90,fit=scale-down" width="48" height="48" alt="strapi" />
       <br>Strapi 5
     </td>
     <td align="center" width="96" style="border: none;">
-      <img src="https://static.cdnlogo.com/logos/k/28/keystonejs.svg" width="48" height="48" alt="prisma" />
+      <img src="https://static.cdnlogo.com/logos/k/28/keystonejs.svg" width="48" height="48" alt="keystone" />
       <br>Keystone 6
     </td>
   
      
    
+  </tr>
+
+  <tr>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://avatars.githubusercontent.com/u/739550?s=280&v=4" width="48" height="48" alt="pucher" />
+      <br>Pucher
+    </td>
+   <td align="center" width="96" style="border: none;">
+      <img src="https://raw.githubusercontent.com/opral/monorepo/refs/heads/main/inlang/packages/plugins/next-intl/assets/plugin-next-intl-logo.png" width="48" height="48" alt="prisma" />
+      <br>NextIntl
+    </td>
+  
+     
+    
   </tr>
 </table>
 
