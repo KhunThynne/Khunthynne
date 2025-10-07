@@ -216,10 +216,13 @@
       <br>NextIntl
     </td>
       <td align="center" width="96" style="border: none;">
-      <img src="https://avatars.githubusercontent.com/u/739550?s=280&v=4" width="48" height="48" alt="pucher" />
-      <br>ES-Lint
+      <img src="https://eslint.org/icon-512.png" width="48" height="48" alt="eslint" />
+      <br>Eslint
     </td>
-     
+      <td align="center" width="96" style="border: none;">
+      <img src="https://prettier.io/icon.png" width="48" height="48" alt="eslint" />
+      <br>Prettier
+    </td>
     
   </tr>
 </table>
