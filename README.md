@@ -215,7 +215,10 @@
       <img src="https://raw.githubusercontent.com/opral/monorepo/refs/heads/main/inlang/packages/plugins/next-intl/assets/plugin-next-intl-logo.png" width="48" height="48" alt="prisma" />
       <br>NextIntl
     </td>
-  
+      <td align="center" width="96" style="border: none;">
+      <img src="https://avatars.githubusercontent.com/u/739550?s=280&v=4" width="48" height="48" alt="pucher" />
+      <br>ES-Lint
+    </td>
      
     
   </tr>
@@ -224,4 +227,4 @@
 
 
 
-https://www.material-tailwind.com/docs/react/crypto/crypto-login
+
