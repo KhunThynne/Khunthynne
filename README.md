@@ -1,4 +1,4 @@
-
+<div align="center" > <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Khunthynne" alt="GitHub Streak" /></a></div>
 
 <table style="border-collapse: collapse; width: 100%;" align="center">
   <tr>
@@ -229,13 +229,13 @@
   </tr>
 </table>
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Khunthynne&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KhunThynne&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  </a>
+<div align="center"> <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=KhunThynne&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  </a></div>
+
+
+
+
 
 
 
