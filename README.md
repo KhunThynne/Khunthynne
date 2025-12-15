@@ -1,4 +1,4 @@
-<div align="center" > <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Khunthynne" alt="GitHub Streak" /></a></div>
+<!-- <div align="center" > <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Khunthynne" alt="GitHub Streak" /></a></div> -->
 
 <table style="border-collapse: collapse; width: 100%;" align="center">
   <tr>
