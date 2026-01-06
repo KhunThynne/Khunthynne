@@ -214,7 +214,7 @@
       <br>Pucher
     </td>
    <td align="center" width="96" style="border: none;">
-      <img src="https://raw.githubusercontent.com/opral/monorepo/refs/heads/main/inlang/packages/plugins/next-intl/assets/plugin-next-intl-logo.png" width="48" height="48" alt="prisma" />
+      <img src="https://learn.next-intl.dev/icon.png?icon.29c7d28f.png" width="48" height="48" alt="NextIntl" />
       <br>NextIntl
     </td>
       <td align="center" width="96" style="border: none;">
