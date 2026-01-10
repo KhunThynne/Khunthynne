@@ -225,7 +225,10 @@
       <img src="https://prettier.io/icon.png" width="48" height="48" alt="eslint" />
       <br>Prettier
     </td>
-    
+     <td align="center" width="96" style="border: none;">
+      <img src="https://operaenminiature.de/favicon.svg" width="48" height="48" alt="payload-cms" />
+      <br>Payloadcms
+    </td>
   </tr>
 </table>
 
