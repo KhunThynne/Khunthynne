@@ -228,6 +228,10 @@
      <td align="center" width="96" style="border: none;">
       <img src="https://operaenminiature.de/favicon.svg" width="48" height="48" alt="payload-cms" />
       <br>Payloadcms
+    </td>  
+    <td align="center" width="96" style="border: none;">
+      <img src="https://tanstack.com/images/logos/logo-color-600.png" width="48" height="48" alt="tanstack" />
+      <br>Tanstack
     </td>
   </tr>
 </table>
