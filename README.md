@@ -233,9 +233,13 @@
       <img src="https://tanstack.com/images/logos/logo-color-600.png" width="48" height="48" alt="tanstack" />
       <br>Tanstack
     </td>
-        <td align="center" width="96" style="border: none;">
+    <td align="center" width="96" style="border: none;">
              <img src="https://github.com/user-attachments/assets/fea6a629-72dc-4fb6-bd7f-957cef216625" width="48" height="48" alt="RXDb" />
       <br>RXDb
+    </td>
+        <td align="center" width="96" style="border: none;">
+             <img src="https://github.com/user-attachments/assets/d730f779-062e-4de0-9af0-503d10ec4394" width="48" height="48" alt="cloudflare" />
+      <br>Cloudflare
     </td>
   </tr>
 </table>
