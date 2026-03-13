@@ -1,7 +1,6 @@
 <!-- <div align="center" > <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Khunthynne" alt="GitHub Streak" /></a></div> -->
 
-<h3 align="center">Languages & Core</h3>
-<table align="center" style="border-collapse: collapse;">
+<table style="border-collapse: collapse; width: 100%;" align="center">
   <tr>
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="c#" />
@@ -12,16 +11,16 @@
       <br>C++
     </td>
     <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" />
-      <br>Python
-    </td>
-    <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" />
       <br>Javascript
     </td>
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="ts" />
       <br>Typescript
+    </td>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" />
+      <br>Python
     </td>
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
@@ -31,16 +30,12 @@
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-  </tr>
-</table>
-
-<h3 align="center">Frontend Frameworks & Libraries</h3>
-<table align="center" style="border-collapse: collapse;">
-  <tr>
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
       <br>React
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
       <br>Vue
@@ -57,8 +52,6 @@
       <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="vite" />
       <br>Vite
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
@@ -75,16 +68,12 @@
       <img src="https://tanstack.com/images/logos/logo-color-600.png" width="48" height="48" alt="tanstack" />
       <br>Tanstack
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96" style="border: none;">
       <img src="https://learn.next-intl.dev/icon.png?icon.29c7d28f.png" width="48" height="48" alt="NextIntl" />
       <br>NextIntl
     </td>
-  </tr>
-</table>
-
-<h3 align="center">Backend & API</h3>
-<table align="center" style="border-collapse: collapse;">
-  <tr>
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
       <br>Node JS
@@ -114,10 +103,6 @@
       <br>Pusher
     </td>
   </tr>
-</table>
-
-<h3 align="center">Databases, ORM & CMS</h3>
-<table align="center" style="border-collapse: collapse;">
   <tr>
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=mongo" width="48" height="48" alt="mongo" />
@@ -139,8 +124,6 @@
       <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
       <br>Prisma
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
       <br>Firebase
@@ -153,16 +136,12 @@
       <img src="https://static.cdnlogo.com/logos/k/28/keystonejs.svg" width="48" height="48" alt="keystone" />
       <br>Keystone 6
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96" style="border: none;">
       <img src="https://operaenminiature.de/favicon.svg" width="48" height="48" alt="payload-cms" />
       <br>Payloadcms
     </td>
-  </tr>
-</table>
-
-<h3 align="center">Cloud, DevOps & OS</h3>
-<table align="center" style="border-collapse: collapse;">
-  <tr>
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
       <br>AWS EC2
@@ -183,8 +162,6 @@
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
       <br>Docker
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="nginx" />
       <br>Nginx
@@ -193,6 +170,8 @@
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="ubuntu" />
       <br>Ubuntu
@@ -201,12 +180,6 @@
       <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="windows" />
       <br>Windows
     </td>
-  </tr>
-</table>
-
-<h3 align="center">Tools, Ecosystem & Testing</h3>
-<table align="center" style="border-collapse: collapse;">
-  <tr>
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
       <br>Github
@@ -227,12 +200,12 @@
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
       <br>VScode
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
       <br>NPM
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96" style="border: none;">
       <img src="https://eslint.org/icon-512.png" width="48" height="48" alt="eslint" />
       <br>Eslint
@@ -249,12 +222,6 @@
       <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="selenium" />
       <br>Selenium
     </td>
-  </tr>
-</table>
-
-<h3 align="center">Hardware & AI</h3>
-<table align="center" style="border-collapse: collapse;">
-  <tr>
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="raspberrypi" />
       <br>Raspberrypi
@@ -267,5 +234,6 @@
       <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="tensorflow" />
       <br>Tensorflow
     </td>
+    <td align="center" width="96" style="border: none;"></td>
   </tr>
 </table>
