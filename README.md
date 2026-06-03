@@ -57,7 +57,7 @@
       <br>Tailwind
     </td>
     <td align="center" width="96" style="border: none;">
-    <img width="48" height="48" alt="Shadcn" src="https://github.com/user-attachments/assets/6ea03d8b-ae5f-47f5-93c3-6edc44029675"  />
+      <img width="48" height="48" alt="Shadcn" src="https://github.com/user-attachments/assets/6ea03d8b-ae5f-47f5-93c3-6edc44029675"  />
       <br>Shadcn
     </td>
   </tr>
@@ -120,6 +120,24 @@
       <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
       <br>NPM
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="96" style="border: none; ">
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/better-auth/default.svg" width="50" height="50" alt="Better Auth Icon" />
+      <br>BetterAuth
+    </td>
+    <td align="center" width="96" style="border: none; ">
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/authdotjs/default.svg" width="48" height="48" alt="Auth JS Icon" />
+      <br>Auth.JS
+    </td>
+    <td align="center" width="96" style="border: none; ">
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/drizzle/default.svg" width="48" height="48" alt="Drizzle Icon" />
+      <br>Drizzle
+    </td>
+    <td style="border: none;">&nbsp;</td>
+    <td style="border: none;">&nbsp;</td>
+    <td style="border: none;">&nbsp;</td>
+    <td style="border: none;">&nbsp;</td>
   </tr>
   <tr>
     <td align="center" width="96" style="border: none;">
@@ -241,4 +259,5 @@
       <br>Notion
     </td>
   </tr>
+ 
 </table>
