@@ -134,7 +134,10 @@
       <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/drizzle/default.svg" width="48" height="48" alt="Drizzle Icon" />
       <br>Drizzle
     </td>
-    <td style="border: none;">&nbsp;</td>
+     <td align="center" width="96" style="border: none; ">
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vitest/default.svg" width="48" height="48" alt="Vitest Icon" />
+      <br>Vitest
+    </td> 
     <td style="border: none;">&nbsp;</td>
     <td style="border: none;">&nbsp;</td>
     <td style="border: none;">&nbsp;</td>
